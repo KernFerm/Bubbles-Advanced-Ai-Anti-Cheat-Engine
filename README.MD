@@ -8,5 +8,5 @@ This project is protected under a strict license agreement. For any use, includi
 
 ---
 
-For more details, see the [LICENSE](LICENSE.md) file.
+For more details, see the [LICENSE](https://github.com/KernFerm/Bubbles-Advanced-Anti-Cheat-Engine/blob/main/LICENSE) file.
 
