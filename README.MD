@@ -9,6 +9,8 @@ Bubbles Advanced Anti Cheat Engine (BAACE) is designed to detect the use of YOLO
 - project complete
 ----------
 
+- adding detection of cronus zen devices
+
 
 # Click To View License 
 ## [Protection License](https://github.com/KernFerm/Bubbles-Advanced-Anti-Cheat-Engine/blob/main/LICENSE)
