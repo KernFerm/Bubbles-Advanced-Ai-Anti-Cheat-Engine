@@ -1,12 +1,11 @@
 # Bubbles Advanced Anti Cheat Engine (BAACE)
 
-Bubbles Advanced Anti Cheat Engine (BAACE) detects YOLO models (.pt, .onnx, .engine) and other cheats using memory scans, file monitoring, process analysis, behavioral analysis, and device detection.
+Bubbles Advanced Anti Cheat Engine (BAACE) is designed to detect and prevent cheating in video games. This repository contains the source code and documentation for BAACE.
 
 ## License Agreement
 
-This project is protected under a strict license agreement. For any use, including commercial use, please refer to the [License Agreement](https://github.com/KernFerm/Bubbles-Advanced-Anti-Cheat-Engine/blob/main/LICENSE-AGREEMENT) file. 
+This project is governed by a strict License Agreement. For any use, including commercial use, please refer to the [LICENSE](LICENSE.md) file.
 
----
+**Notice to Licensees:** The License Agreement must be signed by an authorized representative of the Licensee before any use of BAACE.
 
-For more details, see the [LICENSE](https://github.com/KernFerm/Bubbles-Advanced-Anti-Cheat-Engine/blob/main/LICENSE) file.
-
+For inquiries and purchase of licenses, please contact the Licensor at kernferm@gmail.com.
