@@ -4,7 +4,7 @@ Bubbles Advanced Anti Cheat Engine (BAACE) is designed to detect and prevent che
 
 ## License Agreement
 
-This project is governed by a strict License Agreement. For commercial use, please refer to the [LICENSE](LICENSE.md) file.
+This project is governed by a strict License Agreement. For commercial use, please refer to the [LICENSE](https://github.com/KernFerm/Bubbles-Advanced-Anti-Cheat-Engine/blob/main/LICENSE) file.
 
 **Notice to Licensees:** The License Agreement must be signed by an authorized representative of the Licensee before any use of BAACE.
 
