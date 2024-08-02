@@ -1,16 +1,19 @@
-# 🎮 Bubbles Advanced Anti Cheat Engine (BAACE) 🎮
+# Bubbles Advanced Ai Anti Cheat Engine (BAAACE)
 
-Welcome to the Bubbles Advanced Anti Cheat Engine (BAACE) documentation! BAACE is your go-to solution for detecting and preventing cheating in video games.
+Bubbles Advanced Ai Anti Cheat Engine (BAAACE) is designed to detect and prevent cheating in video games. This repository contains documentation for BAAACE.
 
 - It detects everything used to cheat in video games.
 
-## 📄 License Agreement
+## License Agreement
 
-This project is governed by a strict License Agreement. For commercial use, please refer to the [LICENSE](https://github.com/KernFerm/Bubbles-Advanced-Anti-Cheat-Engine/blob/main/License-Agreement) file.
+This project is governed by a strict License Agreement. For commercial use, please refer to the [LICENSE AGREEMENT](https://github.com/KernFerm/Bubbles-Advanced-Anti-Cheat-Engine/blob/main/License-Agreement) file.
 
-**Important:** An authorized representative of the Licensee must sign the License Agreement before using BAACE.
+**Notice to Licensees:** The License Agreement must be signed by an authorized representative of the Licensee before any use of BAAACE.
 
-## 📧 Contact
+For inquiries and purchase of licenses, please contact the Licensor at kernferm@gmail.com.
 
-For inquiries and purchase of licenses, please contact the Licensor at 📧 kernferm@gmail.com.
+## Note
 
+I have all official contact information for all major and minor game companies. For more details or specific inquiries, please contact me directly.
+
+**Contact Email:** kernferm@gmail.com
