@@ -1,3 +1,9 @@
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+
+
+
 # Bubbles Advanced Ai Anti Cheat Engine (BAAACE) 🚫🎮
 
 Welcome to **Bubbles Advanced Ai Anti Cheat Engine (BAAACE)**! BAAACE is designed to detect and prevent cheating in video games, ensuring a fair and secure gaming environment. This repository contains an overview and documentation for BAAACE.
