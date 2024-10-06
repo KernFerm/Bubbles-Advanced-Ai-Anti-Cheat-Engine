@@ -34,8 +34,8 @@ This project is governed by a License Agreement. For commercial use, please refe
 
 **Notice:** The License Agreement must be signed by an authorized representative before any use of BAAACE.
 
-For inquiries and licenses, please contact kernferm@gmail.com.
+For inquiries and licenses, please contact bubblesthedev@fnbubbles420.org.
 
 ## Contact
 
-**Email:** kernferm@gmail.com
+**Email:** bubblesthedev@fnbubbles420.org
