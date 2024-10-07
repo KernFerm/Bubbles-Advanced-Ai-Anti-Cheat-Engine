@@ -37,5 +37,5 @@ This project is governed by a License Agreement. For commercial use, please refe
 For inquiries and licenses, please contact bubblesthedev@fnbubbles420.org.
 
 ## Contact
-
+**Head Developer**
 **Email:** bubblesthedev@fnbubbles420.org
